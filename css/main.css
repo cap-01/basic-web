@@ -1,3 +1,6 @@
 body {
 background-color: red;
+background-image: url("null");
+margin: 5px;
+padding: 5px;
 }
